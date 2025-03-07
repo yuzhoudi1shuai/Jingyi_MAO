@@ -1,3 +1,5 @@
+<link rel="stylesheet" href="style.css">
+
 # 张三的个人简历
 
 ## 🏆 个人信息
